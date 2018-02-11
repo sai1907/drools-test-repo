@@ -3,6 +3,6 @@
     <release-id>
         <group-id>org.mastertheboss.kieserver</group-id>
         <artifact-id>hello-kie-server</artifact-id>
-        <version>1.2</version>
+        <version>1.0</version>
     </release-id>
 </kie-container>
